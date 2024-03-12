@@ -1,0 +1,243 @@
+/*fon-1*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body,
+html {
+    font-family: sans-serif;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 30px;
+}
+
+header {
+    background-image: url(../img/fon-1.jpg);
+    background-size: cover;
+    height: 1288px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+    margin: auto;
+    max-width: 1500px;
+}
+
+#navbar {
+    background-color: black;
+    color: #fff;
+    overflow: auto;
+    padding-top: 10px;
+    opacity: 0.7;
+}
+
+
+#navbar ul {
+    list-style: none;
+}
+
+#navbar ul li {
+    float: left;
+    font-size: 20px;
+    padding: 20px 20px;
+    cursor: pointer;
+}
+
+#navbar ul li a:hover {
+    background-color: #5a5757;
+    padding: 4px 10px;
+}
+
+.fon-1-content {
+    text-align: center;
+    color: yellow;
+    padding-top: 250px;
+
+}
+
+.fon-1-content h1 {
+    font-size: 80px;
+    padding-bottom: 60px;
+}
+
+.fon-1-content h3 {
+    font-size: 30px;
+    padding-bottom: 40px;
+}
+
+.fon-1-content h4 {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+
+/*fon-2*/
+
+#fon-2 {
+    background-color: #353333;
+}
+
+.fon-2-content {
+    text-align: center;
+    color: #fff;
+    padding-top: 80px;
+    height: 1358px;
+}
+
+.fon-2-content span {
+    font-size: 75px;
+    padding-bottom: 50px;
+}
+
+.fon-2-content h2 {
+    font-size: 40px;
+    padding-bottom: 50px;
+}
+
+.fon-2-content h4 {
+    font-size: 20px;
+    line-height: 30px;
+    padding-bottom: 20px;
+}
+
+.fon-2-content h5 {
+    font-size: 20px;
+    padding-top: 30px;
+}
+
+.fon-2-content button {
+    background-color: red;
+    color: #fff;
+    cursor: pointer;
+    padding: 25px 20px;
+    font-size: 20px;
+    border: none;
+}
+
+/*fon-3*/
+
+.fon-3-content {
+    text-align: center;
+    color: black;
+    padding-top: 80px;
+    height: 1258px;
+}
+
+.fon-3-content h2 {
+    font-size: 40px;
+    padding-bottom: 50px;
+}
+
+.fon-3-content h4 {
+    font-size: 20px;
+    line-height: 30px;
+    padding-bottom: 20px;
+}
+
+.fon-3-content button {
+    background-color: rgb(37, 37, 172);
+    color: #fff;
+    cursor: pointer;
+    padding: 25px 20px;
+    font-size: 20px;
+    border: none;
+    display: block;
+    margin-left: 600px;
+}
+
+/*fon-4*/
+
+#fon-4 {
+    background-image: url(../img/fon-4.jpg);
+    background-size: cover;
+    height: 688px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.fon-4-content {
+    text-align: center;
+    color: #fff;
+    padding-top: 250px;
+
+}
+
+.fon-4-content h2 {
+    font-size: 40px;
+    padding-bottom: 80px;
+}
+
+.fon-4-content p {
+    font-size: 25px;
+    line-height: 35px;
+}
+
+/*fon-5*/
+
+.fon-5-content {
+    text-align: left;
+    color: black;
+    padding-top: 80px;
+    height: 588px;
+    
+
+}
+
+.border {
+    border-bottom: 2px solid #999898;
+    display: inline;
+}
+
+.fon-5-content h2 {
+    font-size: 40px;
+    padding-bottom: 50px;
+}
+
+.fon-5-content h3 {
+    font-size: 20px;
+    line-height: 30px;
+    padding-bottom: 20px;
+
+}
+
+.fon-5-content h4 {
+    font-size: 20px;
+    line-height: 30px;
+    padding-bottom: 20px;
+
+}
+
+
+.fon-5-content img {
+    background-size: cover;
+    height: 450px;
+    display: block;
+    float: left;
+}
+
+
+/*fon-6*/
+
+#fon-6 {
+    background-color: black;
+    color: #fff;
+    height: 300px;
+    padding-top: 40px;
+}
+
+.box {
+    width: 25%;
+    float: left;
+}
+
+.box h2 {
+    border-bottom: 2px solid #999898;
+    width: 70%;
+}
